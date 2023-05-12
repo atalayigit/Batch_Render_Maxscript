@@ -40,10 +40,7 @@ buttontext:"Render_quick"
    btnRender.FlatAppearance.BorderSize=0
    btnRender.FlatStyle.value__ =3
    
-   txt_created = dotNetObject "System.Windows.Forms.LinkLabel"
-   txt_created.Location = dotNetObject "System.Drawing.Point" 520 180
-   txt_created.Text = "Yigit Atalay"
-   txt_created.Links.Add 0 12 "https://www.linkedin.com/in/yigitatalay/" 
+  
 
    frmOpenFileDialog = dotNetObject "System.Windows.Forms.OpenFileDialog"
    frmOpenFileDialog.Filter = "3ds Max (.max)|*.max"
