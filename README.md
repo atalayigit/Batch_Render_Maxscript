@@ -1,4 +1,4 @@
-# RenderBatch_Ata
+# Batch_Render_Maxscript
 This script is designed to collectively select the ".max" files selected in 3ds max and render them sequentially.
 To activate the script, you need to follow the steps below:
 
@@ -6,17 +6,17 @@ To activate the script, you need to follow the steps below:
 
 2.Open the Customize User Interface screen.
 
-![1](https://github.com/olesti/RenderBatch_Ata/assets/64621810/d3f77779-39d8-4056-a7c3-9dcc452ef09a)
+![1](https://github.com/atalayigit/Batch_Render_Maxscript/assets/64621810/d3f77779-39d8-4056-a7c3-9dcc452ef09a)
 
 
 3.Select Atalay Script from the toolbar menu.
 
-![2](https://github.com/olesti/RenderBatch_Ata/assets/64621810/17b5d99e-1d4f-432e-9207-e14de9d729ac)
+![2](https://github.com/atalayigit/Batch_Render_Maxscript/assets/64621810/17b5d99e-1d4f-432e-9207-e14de9d729ac)
 
 
 4.Let's drag-and-drop the Atalay element here to the ribbon tab.
-![3](https://github.com/olesti/RenderBatch_Ata/assets/64621810/84537140-e6d6-403c-bf3a-ed54d8e590ef)
+![3](https://github.com/atalayigit/Batch_Render_Maxscript/assets/64621810/84537140-e6d6-403c-bf3a-ed54d8e590ef)
 
-![4](https://github.com/olesti/RenderBatch_Ata/assets/64621810/fe748729-cb56-4fb8-88c0-763f622f3ad3)
+![4](https://github.com/atalayigit/Batch_Render_Maxscript/assets/64621810/fe748729-cb56-4fb8-88c0-763f622f3ad3)
 
 Now you can use Script.
